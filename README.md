@@ -8,8 +8,7 @@
 
 3. Kennt Backupstrategien, um Daten von einer Plattform zu sichern.
 
-### 2.
-Analysiert die Wirtschaftlichkeit einer Virtualisierungsplattform unter Berücksichtigung von finanziellen Mitteln, Energieverbrauch und geforderter Verfügbarkeit.
+### 2. Analysiert die Wirtschaftlichkeit einer Virtualisierungsplattform unter Berücksichtigung von finanziellen Mitteln, Energieverbrauch und geforderter Verfügbarkeit.
 
 #### Handlungsnotwendige Kenntnisse:
 
