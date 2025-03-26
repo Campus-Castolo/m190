@@ -23,12 +23,13 @@ Natürlich! Hier sind die Antworten auf die Fragen rund um Remote Server Managem
 
 ### **Wie viele und welche Prozessoren sind in Ihrem Server verbaut?**
 - Antwort direkt im iLO / DRAC / IPMI Menü unter **"System Information"** oder **"Processor Information"**  
+![alt text](image.png)
 
 ---
 
 ### **Wie viel Memory steht zur Verfügung?**
 - Ebenfalls sichtbar unter **"System Information"** → **"Memory"**  
-*(z. B.: 128 GB DDR4 ECC RAM installiert)*
+![alt text](image-1.png)
 
 ---
 
@@ -59,5 +60,3 @@ Natürlich! Hier sind die Antworten auf die Fragen rund um Remote Server Managem
 ### **Was bedeutet die Abkürzung iLO?**
 - **iLO = Integrated Lights-Out**  
 - Proprietäre Remote Management-Lösung von **Hewlett Packard Enterprise (HPE)**  
-
----
