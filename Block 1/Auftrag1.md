@@ -52,7 +52,7 @@
 ---
 
 ### **Mit welchen dieser Produkte haben Sie bereits gearbeitet?**
-*(Beispielantwort – bitte anpassen)*  
+
 - VirtualBox im Schulunterricht  
 - Proxmox privat für Homelab  
 - VMware Workstation für Testumgebungen  
